@@ -1,0 +1,22 @@
+{
+  "name": "express-params-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langley234/express-params-challenge.git"
+  },
+  "author": "Mike Langenbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langley234/express-params-challenge/issues"
+  },
+  "homepage": "https://github.com/langley234/express-params-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
